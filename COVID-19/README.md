@@ -1,2 +1,2 @@
-# COVID-19_TRACKER_HTML_CSS_JAVASCRIPT
-COVID-19 with HTML5, CSS3 and JavaScript
+# COVID-19 TRACKER CREATING NERDS 
+COVID-19 news website creating nerds... this website not completed yet.... we will completed soon... stay tuned.....
